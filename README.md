@@ -6,9 +6,9 @@ This reprository acts as a question bank for preparation for Drupal Certificatio
 
 ## PLEASE NOTE (Important to read) :triangular_flag_on_post:
 - The sole purpose of this document is to help the candidate prepare for the drupal certification exam.
-- Please do not consider this document as a "leaked" version of Drupal certification exam, the questions framed here are based upon the following:
+- Please do not consider this document as a "leaked" version, the questions framed here are based upon the following:
    - The drupal development experience of the contributors.
-   - Experience of taking/attempting the Drupal certification quiz.
+   - Experience of attempting the certification quiz.
 - Hence, any resemblance to quiz questions is a mere coincidence.
 
 #### Don't feel like wasting anymore time? Straight away jump to :point_right: [QUESTION BANK](docs/QUESTIONS.md).
@@ -18,9 +18,10 @@ This reprository acts as a question bank for preparation for Drupal Certificatio
 
 ## Intention behind creating this repository...
 
-- The sole intention behind creating this repository is to help Drupalers prepare for Drupal certification exams. In addition to the Drupal Docs (which is the best resource for preparing for and learning Drupal), Drupalize.me and other resources mentioned in this [section](#drupal-study-material--related-resources), this document gives you a glimpse of what kind of questions should we expect when it comes to Drupal Certifications.
+- The sole intention behind creating this repository is to help Drupalers prepare for Drupal certifications. In addition to the Drupal Docs (which is the best resource for preparing and learning Drupal), Drupalize.me and other resources mentioned in this [section](#drupal-study-material--related-resources), this document gives a glimpse of what to expect when it comes to Drupal Certifications.
 
-- After reading the point mentioned above, if you still have questions in mind like - __"*Ok! got it! But still WHY*?__ Is Drupal Documentation not enough?", then to explain this further - This repository is the result of a conversation I had with young Drupalers who wanted to appear for certification exam but were not sure how to prepare for it. They had questions in mind like -
+- After reading the point mentioned above, if you still have questions in mind like - __"*Ok! got it! But still, WHY do we need this repository*?__ Is Drupal Documentation not enough?"
+To explain this further - This repository is the result of a conversation I had with young Drupalers who wanted to appear for certification exam but were not sure how to prepare for it. They had questions in mind like -
 
   - What is the right time to appear for these exams?
   - What is the difficulty level?
@@ -37,14 +38,14 @@ I've shared my experience in the form of a blog on my Portfolio website. Here's 
 
 ---
 
-## Let's get some clarity around this Certification...
+## Let's get some clarity around Drupal Certification...
 
 ### What is the right time to appear for these exams?
 
 IMO the right time to appear for the Drupal Certification exams (Frontend, Backend & Devegloper) is -
 
 - When you have the experience of extensive development on at least 3-4 Drupal projects.
-- During this period, you have had the opportunity to -
+- During this period, you've had the opportunity to -
 
   - :white_check_mark: Develop features(big or small)
   - :white_check_mark: Fix bugs
@@ -54,7 +55,7 @@ IMO the right time to appear for the Drupal Certification exams (Frontend, Backe
 
 - Experience is the key here, the biggest reason for this is the type of questions we face in these certification exams, the questions are based upon a certain use case or the application of the concept.
 
-- In addition to the experience, how you prepare is going to help you score better in these exams. I believe in hard work and TBH i worked really hard for these exams. If you read my experience [here](#authors-drupal-certification-quiz-experience) then you've probably figured out my strategy - It is purely "Hard Work!!". Once again, I have mentioned all the resources I used in this [section](#authors-drupal-certification-quiz-experience).
+- In addition to the experience, how you prepare is going to help you score better in these exams. I believe in hard work & If you've read my experience [here](#authors-drupal-certification-quiz-experience) then you've probably figured out my strategy - It is purely "Hard Work!!". Once again, I've mentioned all the resources in this [section](#authors-drupal-certification-quiz-experience).
 
 ### What is the difficulty level?
 
