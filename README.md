@@ -11,7 +11,7 @@ This reprository acts as a question bank for preparation for Drupal Certificatio
    - Experience of attempting the certification quiz.
 - Hence, any resemblance to quiz questions is a mere coincidence.
 
-#### Don't feel like wasting anymore time? Straight away jump to :point_right: [QUESTION BANK](docs/QUESTIONS.md).
+#### Don't feel like wasting anymore time? Straight away jump to :point_right: [QUESTION BANK](docs/QUESTIONS.md#here-are-the-questions-for-practicing).
 #### If you are interested to know the reason for building this repository & other Drupal related study material, please continue reading ahead... :point_down:
 
 ---
